@@ -1,5 +1,4 @@
-# Hero Chassis Controller\nThis is my custom controller.
-# Hero Chassis Controller
+## Hero Chassis Controller
 
 ## Overview
 This is a custom ROS controller for the RoboMaster hero chassis, developed as part of the assignment. It is based on the `ros_control` framework and dynamically loaded via `pluginlib`.
